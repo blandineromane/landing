@@ -1,0 +1,49 @@
+h1 {
+	color:#820933;
+	text-decoration: overline underline;
+}
+h3 {
+	color: #A23E48;
+}
+h2{
+	color:#820933;
+}
+p {
+	color:rgb(60,60,60);
+}
+h1 {
+	font-family: Times, sherif; 
+}
+h1 {
+	font-size: 60px;
+}
+h2{
+	font-size: 40px;
+	background-color: #DEBAC0;
+}
+h3{
+	font-size: 20px;
+}
+h1 {
+	font-weight: bolder;
+}
+h1{
+	text-align: center;
+}
+.card {
+	background-color: #DEBAC0;
+	text-align: center;
+}
+
+.cards{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 16px;
+}
+.banner {
+	background-image: url("images/ban.JPG");
+	background-size: cover;
+	background-position: center;
+	padding: 150px 0;
+	text-align: center;
+ }
